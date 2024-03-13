@@ -1,5 +1,5 @@
 ## About me:
-Currently studying Cybersecurity at AGH University of Science and Technology in Cracow.
+Currently studying Cybersecurity at AGH University of Science and Technology in Cracow and working as a Junior Security Engineer.
 
 ## Technology Stack:
 
