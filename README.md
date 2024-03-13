@@ -3,7 +3,7 @@ Currently studying Cybersecurity at AGH University of Science and Technology in 
 
 ## Technology Stack:
 
-### Programming languages:
+### Programming/scripting languages:
 <p align="left">
       <a href="https://www.python.org/"><img src="https://img.icons8.com/color/512/python.png" alt="PYTHON" width="40" height="40"/>
       <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/plasticine/512/bash.png" alt="BASH" width="40" height="40"/>
