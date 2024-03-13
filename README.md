@@ -1,4 +1,5 @@
-### Hi there 👋
+## About me:
+Currently studying Cybersecurity at AGH University of Science and Technology in Cracow.
 
 ## Technology Stack:
 
