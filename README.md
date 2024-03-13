@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## Technology Stack:</h2>
+  
+<h3>Programming languages:</h3>
+<p align="left">
+      <a href="https://www.python.org/"><img src="https://img.icons8.com/color/512/python.png" alt="PYTHON" width="40" height="40"/>
+      <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/plasticine/512/bash.png" alt="BASH" width="40" height="40"/>
+</p>
+
 <!--
 **szym-i/szym-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
