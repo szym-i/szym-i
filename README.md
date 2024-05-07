@@ -1,8 +1,10 @@
 ## About me:
 Currently studying Cybersecurity at AGH University of Science and Technology in Cracow and working as a Junior Security Engineer.
 
-### Socials:
+### Links:
 <a href="https://www.linkedin.com/in/smilczarczyk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/smilczarczyk/" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/szymi" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/blob/develop/icons/tryhackme.svg" alt="https://tryhackme.com/p/szymi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/smilczarczyk" target="blank"><img align="center" src="https://img.icons8.com/windows/32/hackerrank.png" alt="https://www.hackerrank.com/smilczarczyk" height="30" width="40" /></a>
 
 ## Technology Stack:
 
